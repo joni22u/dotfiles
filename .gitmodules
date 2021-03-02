@@ -1,0 +1,3 @@
+[submodule "dmenu"]
+	path = dmenu
+	url = https://git.suckless.org/dmenu
